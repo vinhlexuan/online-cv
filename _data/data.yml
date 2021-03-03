@@ -130,7 +130,7 @@ projects:
 
       - title: VN_ID_Card_Reader
         link: "#"
-        tagline: "A simple project which is like Vietnamese ID card OCR"
+        tagline: "A simple project which is like Vietnamese ID card OCR (This project hasn't finished yet)"
 
 # publications:
 #     title: Publications
