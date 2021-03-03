@@ -128,9 +128,9 @@ projects:
         link: "https://github.com/LeoLeuu/IntroductionSoftwearTechnology"
         tagline: "My Course Project - Introduction to Software Technology at HUST"
 
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: VN_ID_Card_Reader
+        link: "#"
+        tagline: "A simple project which is like Vietnamese ID card OCR"
 
 # publications:
 #     title: Publications
