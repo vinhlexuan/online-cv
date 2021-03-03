@@ -112,6 +112,7 @@ experiences:
 projects:
     title: Projects
     intro: >
+        Simple OOP and Machine Learning Project
     assignments:
       - title: BKPaint
         link: "https://github.com/LeoLeuu/BKPaint"
@@ -165,7 +166,7 @@ skills:
 
     toolset:
       - name: Python
-        level: 65%
+        level: 60%
 
       - name: Java
         level: 65%
