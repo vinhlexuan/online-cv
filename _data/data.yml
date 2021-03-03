@@ -47,6 +47,7 @@ career-profile:
     summary: |
       - Eager for learning, hard-working and working under pressure well.
       - Hard working IT undergraduate 
+      - B+ grade in OOP course at Hanoi University of Science and Technology
 education:
     - degree: Hanoi University of Science and Technology
       university: 
@@ -114,7 +115,8 @@ projects:
     assignments:
       - title: BKPaint
         link: "https://github.com/LeoLeuu/BKPaint"
-        tagline: "A program which is similar to Microsoft Paint but has some extended functions: Replay, Resize Image,..."
+        tagline: |
+          A program which is similar to Microsoft Paint but has some extended functions: Replay, Resize Image,...
 
       - title: Text Summarization in English
         link: "https://github.com/LeoLeuu/text-summarization-using-deep-learning"
