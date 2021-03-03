@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Professional Summary
     summary: |
-      - Eager for learning, hard-working and working under pressure well.
+      - Eager for learning, hard-working and working under pressure well
       - Hard working IT undergraduate 
       - B+ grade in OOP course at Hanoi University of Science and Technology
 education:
@@ -120,19 +120,23 @@ projects:
 
       - title: Text Summarization in English
         link: "https://github.com/LeoLeuu/text-summarization-using-deep-learning"
-        tagline: "A project using machine learning to summarize English texts."
+        tagline: |
+          A project using machine learning to summarize English texts.
 
       - title: Face Recognition
         link: "https://github.com/LeoLeuu/Face-Recognition-TL-"
-        tagline: "My Course Project - Introduction to Artificial Intelligence at HUST"
+        tagline: |
+          My Course Project - Introduction to Artificial Intelligence at HUST
 
       - title: Quan ly thong tin Covid
         link: "https://github.com/LeoLeuu/IntroductionSoftwearTechnology"
-        tagline: "My Course Project - Introduction to Software Technology at HUST"
+        tagline: |
+          My Course Project - Introduction to Software Technology at HUST
 
       - title: VN_ID_Card_Reader
         link: "#"
-        tagline: "A simple project which is like Vietnamese ID card OCR (This project hasn't finished yet)"
+        tagline: |
+          A simple project which is like Vietnamese ID card OCR
 
 # publications:
 #     title: Publications
