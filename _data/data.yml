@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: vinh.lexuan0112@gmail.com
     phone: 0858 105 968
-    website:  #do not add http://
+    website:  www.linkedin.com/in/vinh-le-5b1915236/
     linkedin: 
-    github: leoleuu
+    github: vinhlexuan
     telegram: # add your nickname without '@' sign
 #      gitlab:
 #      bitbucket:
@@ -47,7 +47,7 @@ career-profile:
     summary: |
       - Eager for learning, hard-working and working under pressure well
       - Hard working IT undergraduate 
-      - Having good knowledge of OOP, Basic SQL
+      - Having good knowledge of OOP, SQL, Spring framework, Java core
 education:
     - degree: Hanoi University of Science and Technology
       university: 
@@ -72,32 +72,23 @@ education:
 #           - Bullet point
 #           - Bullet point
 experiences:
-    - role: Part time Math tutor
-      time: 2018 - Present
-#       company: Startup Hubs, San Francisco
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#         error sit voluptatem accusantium doloremque laudantium, totam rem
-#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#         architecto beatae vitae dicta sunt explicabo.
-#           - Bullet point
-#           - Bullet point
-#     - role: Senior Software Engineer
-#       time: 2014 - 2015
-#       company: Google, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
+    - role: Java backend developer
+      time: March 2021 - November 2021
+      company: INTLABS VIETNAM TECHNOLOGY JOINT STOCK COMPANY
+      details: |
+        - Participate in building a product of human resource management, including face recognition by AI camera
+        - Product : https://intlabs.vn/giai-phap-cham-cong-intface/
+        - Technologies used: Spring framework, Kafka, Microservices
+          - Bullet point
+          - Bullet point
+    - role: Python developer
+      time: November 2021 - Present
+      company: BKAI Lab at Hanoi University of Science and Technology
+      details: |
+        - Develop a log management system for client while training a AI model
+        - Technologies used: Kafka, Logstash, Redis, Elasticsearch
+          - Bullet point
+          - Bullet point
 #     - role: UI Developer
 #       time: 2012 - 2014
 #       company: Amazon, London
@@ -128,11 +119,6 @@ projects:
         link: "https://github.com/LeoLeuu/Face-Recognition-TL-"
         tagline: |
           My Course Project - Introduction to Artificial Intelligence at HUST
-
-      - title: Quan ly thong tin Covid
-        link: "https://github.com/LeoLeuu/IntroductionSoftwearTechnology"
-        tagline: |
-          My Course Project - Introduction to Software Technology at HUST
 
       - title: VN_ID_Card_Reader
         link: "#"
