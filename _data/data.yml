@@ -47,7 +47,7 @@ career-profile:
     summary: |
       - Eager for learning, hard-working and working under pressure well
       - Hard working IT undergraduate 
-      - Having good knowledge of OOP, SQL, Spring framework, Java core
+      - Having good knowledge of OOP, SQL, Spring framework, Java core, Python
 education:
     - degree: Hanoi University of Science and Technology
       university: 
@@ -77,18 +77,19 @@ experiences:
       company: INTLABS VIETNAM TECHNOLOGY JOINT STOCK COMPANY
       details: |
         - Participate in building a product of human resource management, including face recognition by AI camera
-        - Product : https://intlabs.vn/giai-phap-cham-cong-intface/
-        - Technologies used: Spring framework, Kafka, Microservices
-          - Bullet point
-          - Bullet point
+        - Technologies used:
+          - Spring framework
+          - Kafka
+          - Microservices
     - role: Python developer
       time: November 2021 - Present
       company: BKAI Lab at Hanoi University of Science and Technology
       details: |
-        - Develop a log management system for client while training a AI model
-        - Technologies used: Kafka, Logstash, Redis, Elasticsearch
-          - Bullet point
-          - Bullet point
+        - Develop a log management system for client while training an AI model
+        - Technologies used:
+          - Logstash
+          - Redis
+          - Elasticsearch
 #     - role: UI Developer
 #       time: 2012 - 2014
 #       company: Amazon, London
@@ -106,17 +107,17 @@ projects:
         Simple OOP and Machine Learning Project
     assignments:
       - title: BKPaint
-        link: "https://github.com/LeoLeuu/BKPaint"
+        link: "https://github.com/vinhlexuan/BKPaint"
         tagline: |
           A program which is similar to Microsoft Paint but has some extended functions: Replay, Resize Image,...
 
       - title: Text Summarization in English
-        link: "https://github.com/LeoLeuu/text-summarization-using-deep-learning"
+        link: "https://github.com/vinhlexuan/text-summarization-using-deep-learning"
         tagline: |
           A project using machine learning to summarize English texts.
 
       - title: Face Recognition
-        link: "https://github.com/LeoLeuu/Face-Recognition-TL-"
+        link: "https://github.com/vinhlexuan/Face-Recognition-TL-"
         tagline: |
           My Course Project - Introduction to Artificial Intelligence at HUST
 
@@ -124,6 +125,18 @@ projects:
         link: "#"
         tagline: |
           A simple project which is like Vietnamese ID card OCR
+          
+      - title: Intface
+        link: "https://intlabs.vn/giai-phap-cham-cong-intface/"
+        tagline: |
+           A product about human resource management, including face recognition by AI camera
+           Role: Java backend developer
+           
+      - title: Fimi
+        link: "https://bkai.ai/research/fi-mi-a-fine-grained-ai-based-mobile-air-quality-monitoring-and-forecasting-system/"
+        tagline: |
+           A Fine-grained AI-based Mobile Air Quality Monitoring and Forecasting System
+           Role: Python developer           
 
 # publications:
 #     title: Publications
