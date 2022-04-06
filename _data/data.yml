@@ -129,13 +129,13 @@ projects:
       - title: Intface
         link: "https://intlabs.vn/giai-phap-cham-cong-intface/"
         tagline: |
-           A product about human resource management, including face recognition by AI camera.
+           A product about human resource management, including face recognition by AI camera.<br>
            Role: Java backend developer
            
       - title: Fimi
         link: "https://bkai.ai/research/fi-mi-a-fine-grained-ai-based-mobile-air-quality-monitoring-and-forecasting-system/"
         tagline: |
-           A Fine-grained AI-based Mobile Air Quality Monitoring and Forecasting System.
+           A Fine-grained AI-based Mobile Air Quality Monitoring and Forecasting System.<br>
            Role: Python developer           
 
 # publications:
