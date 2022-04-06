@@ -125,6 +125,11 @@ projects:
         link: "#"
         tagline: |
           A simple project which is like Vietnamese ID card OCR
+
+      - title: Balo_BkZalo
+        link: "https://github.com/vinhlexuan/Balo_BkavZalo"
+        tagline: |
+          A zalo clone app
           
       - title: Intface
         link: "https://intlabs.vn/giai-phap-cham-cong-intface/"
