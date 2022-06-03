@@ -170,13 +170,13 @@ skills:
 
     toolset:
       - name: Python
-        level: 60%
+        level: 0%
 
       - name: Java
-        level: 65%
+        level: 0%
 
-#       - name: Angular
-#         level: 98%
+      - name: ReactJS
+        level: 0%
 
 #       - name: HTML5 & CSS
 #         level: 95%
